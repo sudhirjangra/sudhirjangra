@@ -1,5 +1,15 @@
 # About Me:
-🎓 B.Sc (Hons.) in Computer Science from Dyal Singh College, University of Delhi (2021-2024)<br>🧑‍💻 Data Scientist with hands-on experience in data analysis, machine learning, and visualization<br>📊 Skilled in working with large datasets, cleaning and preprocessing data, and creating interactive dashboards using Tableau<br>🔧 Proficient in Python, Machine Learning, SQL, and Advanced Excel, with experience in applying ML models like KNN, Decision Tree, and Neural Networks<br>📈 Passionate about leveraging data to generate actionable insights and support decision-making<br>💼 Data Analyst Intern at NullClass, where I reduced data inconsistencies by 95% and developed over 10+ interactive Tableau visualizations, improving stakeholder engagement by 40%<br>🔥 Experienced in creating visualizations and working on projects like:<br>Real-Time Job Analytics Portal<br>Bank Data Analysis<br>Obesity Dataset Analysis<br>🎨 Graphic Designer and Photographer with a strong creative background as a Senior Member of XPOSURE DSC at Dyal Singh College<br>🌐 Check out my Portfolio for more details on my work and projects<br>🔗 Connect with me: LinkedIn-/in/sudhirjangra | Email-sudhirjangra.cs@gmail.com<br>
+🎓 B.Sc (Hons.) Computer Science, Dyal Singh College, University of Delhi (2021–2024)<br>
+💼 Data Analyst at Kantar — building regulatory reports for TRAI using Excel, SQL & Power BI<br>
+📊 Hands-on with large datasets, cleaning, preprocessing, and creating impactful dashboards in Tableau & Power BI<br>
+🧑‍💻 Skilled in Python, SQL, Advanced Excel, Tableau, and basic ML models like KNN, Decision Tree<br>
+📈 Internship at NullClass — improved data accuracy by 95%, built 10+ Tableau visualizations to support stakeholder decisions<br>
+📂 Projects: Job Analytics Portal, Bank Data Analysis, Obesity Dataset Analysis<br>
+🎨 Former Senior Member, XPOSURE (Photography & Design Society), Dyal Singh College<br>
+🌐 Portfolio: <a href="https://portfoliosudhirjangra.netlify.app">portfoliosudhirjangra.netlify.app</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/sudhirjangra">linkedin.com/in/sudhirjangra</a><br>
+🔗 Connect with me: LinkedIn-/in/sudhirjangra <br> 
+📧 Email: <a href="mailto:sudhirjangra.cs@gmail.com">Click to send email</a><br>
 
 
 ## 🌐 Socials:
