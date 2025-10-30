@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-💻 **Data Analyst @ Kantar** — building TRAI regulatory reports using **Excel, SQL & Power BI**  
+💻 **Data Analyst @ Kantar** 
 🎓 **B.Sc (Hons.) Computer Science**, Dyal Singh College, DU (2021–2024)  
 📊 Experience with large datasets, preprocessing, visualization (**Tableau & Power BI**)  
 🧑‍💻 Skilled in **Python, SQL, Advanced Excel**, and ML models like **KNN, Decision Tree**  
