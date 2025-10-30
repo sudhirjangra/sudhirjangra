@@ -22,6 +22,19 @@
 🌐 Portfolio: [portfoliosudhirjangra.netlify.app](https://portfoliosudhirjangra.netlify.app)  
 
 ---
+## 💼 Professional Experience
+
+### 🧾 **Data Analyst @ Kantar**
+**Projects:** TRAI | Google Civics  
+
+- 📊 Processed and analyzed large datasets from multiple telecom operators for **TRAI**, generating regulatory reports and KPI insights using **Power BI** and **Tableau**.  
+- ⚙️ Automated repetitive tasks with **Excel Macros** and **Power Query**, reducing manual data processing time by **70–80%**.  
+- 🧠 Designed and deployed a **data collection and analysis system** for the **Google Civics** project, enabling real-time dashboards and improved data visibility for field teams.  
+- 🤖 Built a **web scraping pipeline (Selenium + Geckodriver)** to extract structured data from government websites with **99% accuracy**, while preventing API rate-limit issues and access blocks.  
+- 🚀 Collaborated with cross-functional teams to improve workflows, maintain data quality, and deliver actionable insights for **regulatory and business stakeholders**.  
+
+---
+
 
 ## 🔧 Tech Stack
 
