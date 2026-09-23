@@ -1,7 +1,8 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌊 ANIMATED HEADER                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,50:58a6ff,70:1f6feb,90:161b22,100:0d1117&height=230&section=header&text=Sudhir%20Jangra&fontSize=75&fontColor=ffffff&fontAlignY=33&desc=Data%20%26%20Automation%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Scale&descSize=17&descColor=58a6ff&descAlignY=55&animation=twinkling" />
+<p align="center" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Sudhir+Jangra+%7C+Data+Automation+Engineer&textBg=false&fontSize=33&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&strokeWidth=0&desc=Building+Systems+That+Scale&descSize=20&descAlign=50&descAlignY=62" />
 
 <!-- ⌨️ TYPING SVG -->
 <p align="center">
@@ -288,8 +289,8 @@ results:
 📐 System Architecture
 ═══════════════════════════════════════════════════════════════
                     ┌─────────────────┐
-  ECI Portal ─────▶│  AWS EC2         │
-  (Live Data)      │  Scrapers        │
+  ECI Portal ─────> │  AWS EC2        │
+  (Live Data)       │  Scrapers       │
                     └────────┬────────┘
                              │
                              ▼
@@ -397,7 +398,7 @@ results:
 
 ```
   ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-  │  📝 Write    │────▶│  🤖 Feed to  │────▶│  ⚡ Agent    │────▶│  🚀 Ship &   │
+  │  📝  Write   │───▶│  🤖 Feed to │────▶│  ⚡ Agent   │────▶│  🚀 Ship &  │
   │  Doc-Specs   │     │  CLI Agent   │     │  Generates   │     │  Iterate     │
   │  (.md files) │     │  (Claude)    │     │  Code        │     │  (Vercel)    │
   └──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘
@@ -572,12 +573,10 @@ results:
 <!-- 🌊 FOOTER                                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,50:58a6ff,70:1f6feb,90:161b22,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=twinkling" />
+<p align="center" width="100%"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=header&reversal=false&text=Thanks+for+visiting%21&textBg=false&fontSize=35&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=5000&pause=2000&color=8b949e&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+collaborations+%26+freelance+opportunities;💬+Ask+me+about+Python%2C+SQL%2C+Power+BI%2C+Automation;🤖+Currently+vibe-coding+with+AI+agents+at+10x+speed" alt="Footer Typing"/>
 </p>
-
-<p align="center">
-  <b>Made with 🤖 + ☕ by Sudhir Jangra</b>
 </p>
